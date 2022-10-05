@@ -1,0 +1,289 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-05 11:03-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\portafolio_yoel\settings.py:109 .\templates\index.html:224
+msgid "English"
+msgstr "Inglés"
+
+#: .\portafolio_yoel\settings.py:110 .\templates\index.html:212
+msgid "Spanish"
+msgstr "Español"
+
+#: .\portafolio_yoel\settings.py:111
+msgid "Swedish"
+msgstr "Sueco"
+
+#: .\portafolio_yoel\settings.py:112
+msgid "Portuguese"
+msgstr "Portugués"
+
+#: .\templates\index.html:52
+msgid "Yoel Diaz Herrera"
+msgstr "Yoel Díaz Herrera"
+
+#: .\templates\index.html:53
+msgid "I'm"
+msgstr "Soy"
+
+#: .\templates\index.html:54
+msgid "Developer, DevOps, Cybersecurity Analyst"
+msgstr "Desarrollador, DevOps, Analista de Ciberseguridad"
+
+#: .\templates\index.html:58
+msgid "Home"
+msgstr "Inicio"
+
+#: .\templates\index.html:59 .\templates\index.html:87
+msgid "About"
+msgstr "Acerca"
+
+#: .\templates\index.html:60 .\templates\index.html:316
+msgid "Experience"
+msgstr "Experiencia"
+
+#: .\templates\index.html:61 .\templates\index.html:403
+msgid "Badges"
+msgstr ""
+
+#: .\templates\index.html:62 .\templates\index.html:543
+msgid "Contact"
+msgstr "Contacto"
+
+#: .\templates\index.html:63 .\templates\index.html:204
+#: .\templates\index.html:412 .\templates\index.html:446
+#: .\templates\index.html:611
+msgid "Language"
+msgstr "Idioma"
+
+#: .\templates\index.html:88
+msgid "Learn more about me"
+msgstr "Conoce más sobre mí"
+
+#: .\templates\index.html:96
+msgid "Computer Engineer"
+msgstr "Ingeniero Informático"
+
+#: .\templates\index.html:98
+msgid ""
+"Computer Science Engineer graduated from the University of Computer Science "
+"in 2016. Linked to computer security, network management and software "
+"development since 2008, I have participated inseveral development projects "
+"in the following roles: Full Stack Developer, Systems Analyst, "
+"DatabaseAdministrator and Quality Assurance."
+msgstr ""
+"Ingeniero informático graduado en la Universidad de Ciencias Informáticas en "
+"2016. Vinculado a la seguridad informática, la gestión de redes y el "
+"desarrollo de software desde 2008, he participado en varios proyectos de "
+"desarrollo en los siguientes roles: Desarrollador Full Stack, Analista de "
+"Sistemas, Administrador de Bases de Datos y Aseguramiento de la Calidad"
+
+#: .\templates\index.html:103
+msgid "Birthday"
+msgstr "Fecha de nacimiento"
+
+#: .\templates\index.html:104
+msgid "June"
+msgstr "Junio"
+
+#: .\templates\index.html:106
+msgid "Degree"
+msgstr "Grado acadmémico"
+
+#: .\templates\index.html:107
+msgid "Engineering"
+msgstr "Ingeniería"
+
+#: .\templates\index.html:112 .\templates\index.html:552
+msgid "E-Mail"
+msgstr ""
+
+#: .\templates\index.html:118
+msgid "Age"
+msgstr "Edad"
+
+#: .\templates\index.html:120 .\templates\index.html:375
+msgid "Freelance"
+msgstr ""
+
+#: .\templates\index.html:121
+msgid "Available"
+msgstr "Disponible"
+
+#: .\templates\index.html:135
+msgid "Skills"
+msgstr "Habilidades"
+
+#: .\templates\index.html:143
+msgid "Telecommunication"
+msgstr "Telecomunicaciones"
+
+#: .\templates\index.html:151
+msgid "Algorithms"
+msgstr "Algoritmos"
+
+#: .\templates\index.html:159
+msgid "Hardware"
+msgstr ""
+
+#: .\templates\index.html:171
+msgid "Software Engineering"
+msgstr "Ingeniería de Software"
+
+#: .\templates\index.html:179
+msgid "Data Engineering"
+msgstr "Ingeniería de Datos"
+
+#: .\templates\index.html:187
+msgid "Electronic"
+msgstr "Electrónica"
+
+#: .\templates\index.html:241
+msgid "Software"
+msgstr ""
+
+#: .\templates\index.html:317
+msgid "Check my experience"
+msgstr "Revisa mi experiencia"
+
+#: .\templates\index.html:323
+msgid "Education"
+msgstr "Educación"
+
+#: .\templates\index.html:325
+msgid "Engineering in Computer Science"
+msgstr "Ingeniería en Ciencias Informáticas"
+
+#: .\templates\index.html:327
+msgid "University of Computer Sciences (UCI)"
+msgstr "Universidad de las Ciencias Informáticas (UCI)"
+
+#: .\templates\index.html:328 .\templates\index.html:334
+msgid "Havana"
+msgstr "La Habana"
+
+#: .\templates\index.html:328 .\templates\index.html:334
+msgid "Cuba"
+msgstr ""
+
+#: .\templates\index.html:331
+msgid "High School Degree Computer Science"
+msgstr "Técnico Superior en Ciencias Informáticas"
+
+#: .\templates\index.html:333
+msgid "Tec. Institute Raúl Cepero Bonilla"
+msgstr "Instituto Tecnológico Raúl Cepero Bonilla"
+
+#: .\templates\index.html:338
+msgid "Professional Experience"
+msgstr "Experiencia Profesional"
+
+#: .\templates\index.html:342
+msgid "Cybersecurity Analyst"
+msgstr "Analista de Ciberseguridad"
+
+#: .\templates\index.html:356 .\templates\index.html:373
+msgid "Full Stack Developer"
+msgstr "Desarrollador Full Stack"
+
+#: .\templates\index.html:404
+msgid "My badges"
+msgstr "Mis badges"
+
+#: .\templates\index.html:410
+msgid "All"
+msgstr "Todas"
+
+#: .\templates\index.html:411 .\templates\index.html:426
+#: .\templates\index.html:466
+msgid "Cybersecurity"
+msgstr "Ciberseguridad"
+
+#: .\templates\index.html:413 .\templates\index.html:484
+#: .\templates\index.html:520
+msgid "Project"
+msgstr "Proyecto"
+
+#: .\templates\index.html:414 .\templates\index.html:502
+msgid "Misc"
+msgstr ""
+
+#: .\templates\index.html:425 .\templates\index.html:430
+msgid "ISO/IEC 27001 Information Security Associate™"
+msgstr "Asociado en Seguridad de la Información ISO/IEC 27001"
+
+#: .\templates\index.html:435 .\templates\index.html:455
+#: .\templates\index.html:473 .\templates\index.html:491
+#: .\templates\index.html:509 .\templates\index.html:527
+msgid "Go to"
+msgstr "Ir a"
+
+#: .\templates\index.html:445 .\templates\index.html:450
+msgid "EF Standard English Test (EF SET)"
+msgstr "EF Test Inglés Estandarizado (EF SET)"
+
+#: .\templates\index.html:465 .\templates\index.html:470
+msgid "Cyber Security Foundation Professional Certificate - CSFPC™"
+msgstr "Certificado Profesional Básico de Ciberseguridad - CSFPC™"
+
+#: .\templates\index.html:483 .\templates\index.html:488
+msgid "Remote Work and Virtual Collaboration Professional Certificate - RWVCPC"
+msgstr ""
+"Certificado Profesional de Trabajo Remoto y Colaboración Virtual - RWVCPC"
+
+#: .\templates\index.html:501 .\templates\index.html:506
+msgid "Lifelong Learning"
+msgstr "Aprendizaje Permanente"
+
+#: .\templates\index.html:519 .\templates\index.html:524
+msgid "Scrum Foundation Professional Certificate - SFPC™"
+msgstr "Certificado Profesional Básico SCRUM - SFPC™"
+
+#: .\templates\index.html:544
+msgid "Contact Me"
+msgstr "Contáctame"
+
+#: .\templates\index.html:560
+msgid "Social Profiles"
+msgstr "Perfiles Sociales"
+
+#: .\templates\index.html:579
+msgid "Your Name"
+msgstr "Tu Nombre"
+
+#: .\templates\index.html:584
+msgid "Your Email"
+msgstr "Tu E-Mail"
+
+#: .\templates\index.html:588
+msgid "Subject"
+msgstr "Asunto"
+
+#: .\templates\index.html:592
+#| msgid "Send Message"
+msgid "Message"
+msgstr "Mensaje"
+
+#: .\templates\index.html:598
+msgid "Send Message"
+msgstr "Enviar Mensaje"
+
+#: .\templates\index.html:614
+msgid "Do you not understand"
+msgstr "No entiendes"
