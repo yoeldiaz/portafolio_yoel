@@ -17,11 +17,13 @@ from django.conf.urls.i18n import i18n_patterns
 from django.urls import path, include
 from rest_framework import routers
 
+from landing import views
 from landing.views import LandingView
 
 router = routers.DefaultRouter()
 
 urlpatterns = i18n_patterns(
     path('', LandingView.as_view(), name='landing_page'),
+    path('contacto/', views.contact_form, name='contact_form'),
     path('i18n/', include('django.conf.urls.i18n')),
 )

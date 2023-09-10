@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-05 11:03-0400\n"
+"POT-Creation-Date: 2023-09-10 15:02-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,11 +18,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: .\portafolio_yoel\settings.py:109 .\templates\index.html:224
+#: .\portafolio_yoel\settings.py:109 .\templates\index.html:287
 msgid "English"
 msgstr "Engelska"
 
-#: .\portafolio_yoel\settings.py:110 .\templates\index.html:212
+#: .\portafolio_yoel\settings.py:110 .\templates\index.html:275
 msgid "Spanish"
 msgstr "Spanska"
 
@@ -34,53 +34,53 @@ msgstr "Svenska"
 msgid "Portuguese"
 msgstr "Portugisiska"
 
-#: .\templates\index.html:52
+#: .\templates\index.html:53
 msgid "Yoel Diaz Herrera"
 msgstr ""
 
-#: .\templates\index.html:53
+#: .\templates\index.html:54
 msgid "I'm"
 msgstr "Jag är"
 
-#: .\templates\index.html:54
+#: .\templates\index.html:55
 msgid "Developer, DevOps, Cybersecurity Analyst"
 msgstr "Utvecklare, DevOps, Analytiker för Cybersäkerhet"
 
-#: .\templates\index.html:58
+#: .\templates\index.html:59
 msgid "Home"
 msgstr "Hem"
 
-#: .\templates\index.html:59 .\templates\index.html:87
+#: .\templates\index.html:60 .\templates\index.html:152
 msgid "About"
 msgstr "Om"
 
-#: .\templates\index.html:60 .\templates\index.html:316
+#: .\templates\index.html:61 .\templates\index.html:379
 msgid "Experience"
 msgstr "Erfarenhet"
 
-#: .\templates\index.html:61 .\templates\index.html:403
+#: .\templates\index.html:62 .\templates\index.html:466
 msgid "Badges"
 msgstr "Märken"
 
-#: .\templates\index.html:62 .\templates\index.html:543
+#: .\templates\index.html:63 .\templates\index.html:606
 msgid "Contact"
 msgstr "Kontakta"
 
-#: .\templates\index.html:63 .\templates\index.html:204
-#: .\templates\index.html:412 .\templates\index.html:446
-#: .\templates\index.html:611
+#: .\templates\index.html:64 .\templates\index.html:267
+#: .\templates\index.html:475 .\templates\index.html:509
+#: .\templates\index.html:648
 msgid "Language"
 msgstr "Språk"
 
-#: .\templates\index.html:88
+#: .\templates\index.html:153
 msgid "Learn more about me"
 msgstr "Läs mer om mig"
 
-#: .\templates\index.html:96
+#: .\templates\index.html:161
 msgid "Computer Engineer"
 msgstr "Datoringenjör"
 
-#: .\templates\index.html:98
+#: .\templates\index.html:163
 msgid ""
 "Computer Science Engineer graduated from the University of Computer Science "
 "in 2016. Linked to computer security, network management and software "
@@ -94,197 +94,195 @@ msgstr ""
 "Full Stack-utvecklare, systemanalytiker, databasadministratör och "
 "kvalitetssäkring."
 
-#: .\templates\index.html:103
+#: .\templates\index.html:168
 msgid "Birthday"
 msgstr "Födelsedag"
 
-#: .\templates\index.html:104
+#: .\templates\index.html:169
 msgid "June"
 msgstr "Juni"
 
-#: .\templates\index.html:106
+#: .\templates\index.html:171
 msgid "Degree"
 msgstr "Grad"
 
-#: .\templates\index.html:107
+#: .\templates\index.html:172
 msgid "Engineering"
 msgstr "Teknik"
 
-#: .\templates\index.html:112 .\templates\index.html:552
-msgid "E-Mail"
-msgstr ""
-
-#: .\templates\index.html:118
+#: .\templates\index.html:181
 msgid "Age"
 msgstr "Ålder"
 
-#: .\templates\index.html:120 .\templates\index.html:375
+#: .\templates\index.html:183 .\templates\index.html:438
 msgid "Freelance"
 msgstr "Frilansande"
 
-#: .\templates\index.html:121
+#: .\templates\index.html:184
 msgid "Available"
 msgstr "Tillgänglig"
 
-#: .\templates\index.html:135
+#: .\templates\index.html:198
 msgid "Skills"
 msgstr "Kompetens"
 
-#: .\templates\index.html:143
+#: .\templates\index.html:206
 msgid "Telecommunication"
 msgstr "Telekommunikation"
 
-#: .\templates\index.html:151
+#: .\templates\index.html:214
 msgid "Algorithms"
 msgstr "Algoritmer"
 
-#: .\templates\index.html:159
+#: .\templates\index.html:222
 msgid "Hardware"
 msgstr "Hårdvara"
 
-#: .\templates\index.html:171
+#: .\templates\index.html:234
 msgid "Software Engineering"
 msgstr "Programvaruteknik"
 
-#: .\templates\index.html:179
+#: .\templates\index.html:242
 msgid "Data Engineering"
 msgstr ""
 
-#: .\templates\index.html:187
+#: .\templates\index.html:250
 msgid "Electronic"
 msgstr "Datateknik"
 
-#: .\templates\index.html:241
+#: .\templates\index.html:304
 msgid "Software"
 msgstr "Programvara"
 
-#: .\templates\index.html:317
+#: .\templates\index.html:380
 msgid "Check my experience"
 msgstr "Kontrollera min erfarenhet"
 
-#: .\templates\index.html:323
+#: .\templates\index.html:386
 msgid "Education"
 msgstr "Utbildning"
 
-#: .\templates\index.html:325
+#: .\templates\index.html:388
 msgid "Engineering in Computer Science"
 msgstr "Teknik i datavetenskap"
 
-#: .\templates\index.html:327
+#: .\templates\index.html:390
 msgid "University of Computer Sciences (UCI)"
 msgstr "Universitetet för datavetenskap (UCI)"
 
-#: .\templates\index.html:328 .\templates\index.html:334
+#: .\templates\index.html:391 .\templates\index.html:397
 msgid "Havana"
 msgstr "Havanna"
 
-#: .\templates\index.html:328 .\templates\index.html:334
+#: .\templates\index.html:391 .\templates\index.html:397
 msgid "Cuba"
 msgstr "Kuba"
 
-#: .\templates\index.html:331
+#: .\templates\index.html:394
 msgid "High School Degree Computer Science"
 msgstr "Gymnasieexamen i datavetenskap"
 
-#: .\templates\index.html:333
+#: .\templates\index.html:396
 msgid "Tec. Institute Raúl Cepero Bonilla"
 msgstr "Tec. Institutet Raúl Cepero Bonilla"
 
-#: .\templates\index.html:338
+#: .\templates\index.html:401
 msgid "Professional Experience"
 msgstr "Yrkeserfarenhet"
 
-#: .\templates\index.html:342
+#: .\templates\index.html:405
 msgid "Cybersecurity Analyst"
 msgstr "Analytiker för cybersäkerhet"
 
-#: .\templates\index.html:356 .\templates\index.html:373
+#: .\templates\index.html:419 .\templates\index.html:436
 msgid "Full Stack Developer"
 msgstr "Full Stack-utvecklare"
 
-#: .\templates\index.html:404
+#: .\templates\index.html:467
 msgid "My badges"
 msgstr "Mina märken"
 
-#: .\templates\index.html:410
+#: .\templates\index.html:473
 msgid "All"
 msgstr "Alla"
 
-#: .\templates\index.html:411 .\templates\index.html:426
-#: .\templates\index.html:466
+#: .\templates\index.html:474 .\templates\index.html:489
+#: .\templates\index.html:529
 msgid "Cybersecurity"
 msgstr "Cybersäkerhet"
 
-#: .\templates\index.html:413 .\templates\index.html:484
-#: .\templates\index.html:520
+#: .\templates\index.html:476 .\templates\index.html:547
+#: .\templates\index.html:583
 msgid "Project"
 msgstr "Projekt"
 
-#: .\templates\index.html:414 .\templates\index.html:502
+#: .\templates\index.html:477 .\templates\index.html:565
 msgid "Misc"
 msgstr "Diverse"
 
-#: .\templates\index.html:425 .\templates\index.html:430
+#: .\templates\index.html:488 .\templates\index.html:493
 msgid "ISO/IEC 27001 Information Security Associate™"
 msgstr ""
 
-#: .\templates\index.html:435 .\templates\index.html:455
-#: .\templates\index.html:473 .\templates\index.html:491
-#: .\templates\index.html:509 .\templates\index.html:527
+#: .\templates\index.html:498 .\templates\index.html:518
+#: .\templates\index.html:536 .\templates\index.html:554
+#: .\templates\index.html:572 .\templates\index.html:590
 msgid "Go to"
 msgstr "Gå till"
 
-#: .\templates\index.html:445 .\templates\index.html:450
+#: .\templates\index.html:508 .\templates\index.html:513
 msgid "EF Standard English Test (EF SET)"
 msgstr ""
 
-#: .\templates\index.html:465 .\templates\index.html:470
+#: .\templates\index.html:528 .\templates\index.html:533
 msgid "Cyber Security Foundation Professional Certificate - CSFPC™"
 msgstr "Cyber Security Foundation Professional-certifikat - CSFPC™"
 
-#: .\templates\index.html:483 .\templates\index.html:488
+#: .\templates\index.html:546 .\templates\index.html:551
 msgid "Remote Work and Virtual Collaboration Professional Certificate - RWVCPC"
 msgstr "Certifikat för distansarbete och virtuellt samarbete - RWVCPC"
 
-#: .\templates\index.html:501 .\templates\index.html:506
+#: .\templates\index.html:564 .\templates\index.html:569
 msgid "Lifelong Learning"
 msgstr "Livslångt lärande"
 
-#: .\templates\index.html:519 .\templates\index.html:524
+#: .\templates\index.html:582 .\templates\index.html:587
 msgid "Scrum Foundation Professional Certificate - SFPC™"
 msgstr ""
 
-#: .\templates\index.html:544
-#, fuzzy
-#| msgid "Contact"
+#: .\templates\index.html:607
 msgid "Contact Me"
 msgstr "Kontakta mig"
 
-#: .\templates\index.html:560
-msgid "Social Profiles"
-msgstr "Sociala profiler"
-
-#: .\templates\index.html:579
+#: .\templates\index.html:616
 msgid "Your Name"
 msgstr "Ditt namn"
 
-#: .\templates\index.html:584
+#: .\templates\index.html:621
 msgid "Your Email"
 msgstr "Din e-mail"
 
-#: .\templates\index.html:588
+#: .\templates\index.html:626
 msgid "Subject"
 msgstr "Ämne"
 
-#: .\templates\index.html:592
-#| msgid "Send Message"
+#: .\templates\index.html:630
 msgid "Message"
 msgstr "Meddelande"
 
-#: .\templates\index.html:598
+#: .\templates\index.html:635
 msgid "Send Message"
 msgstr "Skicka meddelande"
 
-#: .\templates\index.html:614
+#: .\templates\index.html:651
 msgid "Do you not understand"
 msgstr "Förstår ni inte"
+
+#: .\templates\index.html:703
+msgid "Message sent"
+msgstr "Meddelande skickat"
+
+#: .\templates\index.html:706
+msgid "Required fields"
+msgstr "Obligatoriska fält"
+
