@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-10 15:05-0400\n"
+"POT-Creation-Date: 2025-04-16 11:05-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,19 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: .\portafolio_yoel\settings.py:109 .\templates\index.html:287
+#: .\portafolio_yoel\settings.py:110 .\templates\index.html:287
 msgid "English"
 msgstr "Inglés"
 
-#: .\portafolio_yoel\settings.py:110 .\templates\index.html:275
+#: .\portafolio_yoel\settings.py:111 .\templates\index.html:275
 msgid "Spanish"
 msgstr "Español"
 
-#: .\portafolio_yoel\settings.py:111
+#: .\portafolio_yoel\settings.py:112
 msgid "Swedish"
 msgstr "Sueco"
 
-#: .\portafolio_yoel\settings.py:112
+#: .\portafolio_yoel\settings.py:113
 msgid "Portuguese"
 msgstr "Portugués"
 
@@ -62,13 +62,13 @@ msgstr "Experiencia"
 msgid "Badges"
 msgstr ""
 
-#: .\templates\index.html:63 .\templates\index.html:606
+#: .\templates\index.html:63 .\templates\index.html:642
 msgid "Contact"
 msgstr "Contacto"
 
 #: .\templates\index.html:64 .\templates\index.html:267
 #: .\templates\index.html:475 .\templates\index.html:509
-#: .\templates\index.html:648
+#: .\templates\index.html:684
 msgid "Language"
 msgstr "Idioma"
 
@@ -207,7 +207,7 @@ msgid "All"
 msgstr "Todas"
 
 #: .\templates\index.html:474 .\templates\index.html:489
-#: .\templates\index.html:529
+#: .\templates\index.html:529 .\templates\index.html:601
 msgid "Cybersecurity"
 msgstr "Ciberseguridad"
 
@@ -217,6 +217,7 @@ msgid "Project"
 msgstr "Proyecto"
 
 #: .\templates\index.html:477 .\templates\index.html:565
+#: .\templates\index.html:619
 msgid "Misc"
 msgstr ""
 
@@ -227,6 +228,7 @@ msgstr "Asociado en Seguridad de la Información ISO/IEC 27001"
 #: .\templates\index.html:498 .\templates\index.html:518
 #: .\templates\index.html:536 .\templates\index.html:554
 #: .\templates\index.html:572 .\templates\index.html:590
+#: .\templates\index.html:608 .\templates\index.html:626
 msgid "Go to"
 msgstr "Ir a"
 
@@ -251,39 +253,46 @@ msgstr "Aprendizaje Permanente"
 msgid "Scrum Foundation Professional Certificate - SFPC™"
 msgstr "Certificado Profesional Básico SCRUM - SFPC™"
 
-#: .\templates\index.html:607
+#: .\templates\index.html:600 .\templates\index.html:605
+msgid "Cisco Certified Network Associate - Cyber Ops"
+msgstr "Cisco Certified Network Associate - Ciberoperaciones"
+
+#: .\templates\index.html:618 .\templates\index.html:623
+msgid "Business Intelligence Foundation Professional Certification - BIFPC™"
+msgstr "Certificado Profesional Básico de Inteligencia de Negocios - BIFPC™"
+
+#: .\templates\index.html:643
 msgid "Contact Me"
 msgstr "Contáctame"
 
-#: .\templates\index.html:616
+#: .\templates\index.html:652
 msgid "Your Name"
 msgstr "Tu Nombre"
 
-#: .\templates\index.html:621
+#: .\templates\index.html:657
 msgid "Your Email"
 msgstr "Tu E-Mail"
 
-#: .\templates\index.html:626
+#: .\templates\index.html:662
 msgid "Subject"
 msgstr "Asunto"
 
-#: .\templates\index.html:630
+#: .\templates\index.html:666
 msgid "Message"
 msgstr "Mensaje"
 
-#: .\templates\index.html:635
+#: .\templates\index.html:671
 msgid "Send Message"
 msgstr "Enviar Mensaje"
 
-#: .\templates\index.html:651
+#: .\templates\index.html:687
 msgid "Do you not understand"
 msgstr "No entiendes"
 
-#: .\templates\index.html:703
+#: .\templates\index.html:738
 msgid "Message sent"
 msgstr "Mensaje enviado"
 
-#: .\templates\index.html:706
+#: .\templates\index.html:741
 msgid "Required fields"
 msgstr "Campos requeridos"
-
